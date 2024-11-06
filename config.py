@@ -9,8 +9,8 @@ API_HASH = getenv("API_HASH", "0d81af6bc752fd069824375a9d668839")
 BOT_TOKEN = getenv("BOT_TOKEN", None)
 OWNER_ID = int(getenv("OWNER_ID", "7748155004"))
 MONGO_URL = getenv("MONGO_URL", None)
-SUPPORT_GRP = getenv("SUPPORT_GRP", "Purvi_UPdates")
-UPDATE_CHNL = getenv("UPDATE_CHNL", "WORLD_ALPHA")
+SUPPORT_GRP = getenv("SUPPORT_GRP", "https://t.me/lisa_channel_89")
+UPDATE_CHNL = getenv("UPDATE_CHNL", "https://t.me/lisa_channel_89")
 OWNER_USERNAME = getenv("OWNER_USERNAME", "II_apna_gunjan_II")
 
 # Random Start Images
